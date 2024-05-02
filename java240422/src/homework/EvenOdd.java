@@ -18,6 +18,6 @@ public class EvenOdd {
 			System.out.println("입력된 정수는 짝수입니다.");
 		} else {
 			System.out.println("입력된 정수는 홀수입니다.");
-		}
+		}sc.close();
 	}
 }
