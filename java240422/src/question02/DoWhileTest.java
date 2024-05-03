@@ -10,3 +10,9 @@ public class DoWhileTest {
 	}
 }
 
+//중급B 7 DoWhile (DoWhileTest.java)
+//1
+// DoWhile 을 이용하여 0부터 시작하여99까지의짝수들
+//의합을계산하라.
+// *.출력
+// 2450

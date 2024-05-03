@@ -20,3 +20,12 @@ public class BreakExample {
 		sc.close();
 	}
 }
+
+//중급B 6 : break 문을 이용하여 while 문 벗어나기(BreakExample)
+//1
+//"exit"이 입력되면 while 문을 벗어나도록 break 문을 활용하는
+//프로그램을작성하라.
+//exit을 입력하면 종료합니다.
+//>>edit
+//>>exit
+//종료합니다...
