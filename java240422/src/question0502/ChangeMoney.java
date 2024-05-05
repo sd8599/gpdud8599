@@ -1,5 +1,5 @@
 package question0502;
-//바꾸기
+
 import java.util.Scanner;
 
 public class ChangeMoney {
