@@ -1,5 +1,5 @@
 package casting;
-//계산과 형변환 : 형변환은 대입 뿐만 아니라, 계산을 할 때도 발생한다.
+//계산과 형변환 : 형변환은 대입 뿐만 아니라, 계산을 할 때도 발생한다
 public class Casting4 {
 	
 		public static void main(String[] args) {

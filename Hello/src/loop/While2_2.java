@@ -14,3 +14,6 @@ public class While2_2 {
 				}
 		}
 }
+//i = 1,  sum = 1
+//i = 2,  sum = 3
+//i = 3,  sum = 6

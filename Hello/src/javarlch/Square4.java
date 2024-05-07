@@ -13,3 +13,5 @@ public class Square4 {
 		System.out.println(Square(2));
 	}
 }
+//25.0
+//4.0

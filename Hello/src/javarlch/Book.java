@@ -11,3 +11,6 @@ public class Book {
 		System.out.println("가격 : "+price+"원");
 	}
 }
+//도서명 : 나루토 1권
+//작가 : 키시모토 마사시
+//가격 : 4000원

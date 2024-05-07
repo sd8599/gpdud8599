@@ -13,3 +13,8 @@ public class NewLine {
 		System.out.println("Line 2");//5.호출,끝
 	}
 }
+//Line 1
+//1
+// 2
+//  3
+//Line 2

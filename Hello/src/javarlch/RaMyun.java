@@ -1,7 +1,7 @@
 package javarlch;
 //라면을 끓이는 과정을 출력하시오
 public class RaMyun {
-	
+	//
 	public static void ramyunprocessing() {
 		boil();
 		buy(); 

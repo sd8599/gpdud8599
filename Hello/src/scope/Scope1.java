@@ -14,3 +14,6 @@ public class Scope1 {
 			System.out.println("main m = "+m);
 	}//m 생존종료
 }
+//if m = 10
+//if x = 20
+//main m = 10

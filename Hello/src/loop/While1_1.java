@@ -17,3 +17,6 @@ public class While1_1 {
 				System.out.println("현재 숫자는 : "+count);
 		}
 }
+//현재 숫자는 : 1
+//현재 숫자는 : 2
+//현재 숫자는 : 3

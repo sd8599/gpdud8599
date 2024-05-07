@@ -14,3 +14,5 @@ public class Multiply {
 		times(3,4);//호출,메소드로 값을 던지고있음
 		}
 }
+//4.0
+//12.0

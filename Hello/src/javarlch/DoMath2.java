@@ -10,3 +10,6 @@ public class DoMath2 {
 		System.out.println(score);
 	}
 }
+//7.0
+//3.5
+//7.0

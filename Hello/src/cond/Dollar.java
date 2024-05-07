@@ -5,7 +5,7 @@ package cond;
  * 달러가 0미만이면 : "잘못된 금액입니다."
  * 달러가 0일때 : "환전할 금액이 없습니다."
  * 달러가 0초과 일때 : "환전 금액은 (계산된 원화 금액)원 입니다."
- * 금액은 변수(int dollar)로 지정하고, 해당 변수르 기반으로 한국 원으로의 환전 금액을 출력하자 
+ * 금액은 변수(int dollar)로 지정하고, 해당 변수르 기반으로 한국 원으로의 환전 금액을 출력하자. 
  */
 public class Dollar {
 		public static void main(String[] args) {

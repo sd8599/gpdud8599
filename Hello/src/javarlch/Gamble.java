@@ -19,3 +19,4 @@ public class Gamble {
 			return dollar*1082.25108;
 		}
 }
+//획득 금액 : $6.00 (6494원)

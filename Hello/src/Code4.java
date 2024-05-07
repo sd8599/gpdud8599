@@ -12,3 +12,4 @@ public class Code4 {
 		System.out.println((int)c2); //아스키코드값출력
 }												//정수형으로 형변환시 출력
 }
+/**/

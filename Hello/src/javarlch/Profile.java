@@ -13,3 +13,7 @@ public class Profile {
 		System.out.println("성별 : "+sex);
 	}
 }
+//이름 : 차혜영
+//생년월일 : 931026
+//신장 : 158.3cm
+//성별 : 여자

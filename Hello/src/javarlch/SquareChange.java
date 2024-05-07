@@ -15,3 +15,7 @@ public class SquareChange {
 		System.out.println("main x = "+x);
 	}
 }
+//main x = 5
+//printSquare x = 5
+//printSquare x = 25
+//main x = 5

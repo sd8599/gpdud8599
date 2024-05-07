@@ -1,6 +1,11 @@
 package loop;
 /*
  * 1부터 5까지 숫자를 출력하는데, 숫자가 3일때는 출력을 건너 뛰어야 한다.
+1
+2
+4
+5
+
  */
 public class Continue1 {
 		public static void main(String[] args) {

@@ -1,5 +1,4 @@
 package loop;
-
 //중첩 반복문 for,while 모두 가능
 public class Nested1 {
 		
@@ -17,3 +16,15 @@ public class Nested1 {
 				}
 		}
 }
+//외부 for 시작 i : 0
+//--> 내부 for 0-0
+//--> 내부 for 0-1
+//--> 내부 for 0-2
+//외부 for 종료 i : 0
+//
+//외부 for 시작 i : 1
+//--> 내부 for 1-0
+//--> 내부 for 1-1
+//--> 내부 for 1-2
+//외부 for 종료 i : 1
+//

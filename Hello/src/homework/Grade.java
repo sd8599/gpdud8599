@@ -1,5 +1,5 @@
 package homework;
-
+/**/
 public class Grade {
 
 	public static void Newgrade(String x,double a, double b,double c) {
@@ -13,5 +13,6 @@ public class Grade {
 			}
 		}
 	
-
+/*강백호의 평균점수 : 81.83
+채치수의 평균점수 : 78.17*/
 

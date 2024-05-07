@@ -15,3 +15,6 @@ public class Square {
 		
 	}
 }
+////4
+//9
+//16

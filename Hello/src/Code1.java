@@ -7,3 +7,4 @@ public class Code1 {
 		System.out.println("b = "+b);
 	}
 }
+/**/

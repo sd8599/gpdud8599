@@ -1,5 +1,5 @@
 package javarlch;
-
+/**/
 public class Price2 {
 	public static void main(String[] args) {
 			int donNum = Integer.parseInt(args[0]);

@@ -1,5 +1,5 @@
 package cond;
-
+/**/
 public class CondOp2 {
 		public static void main(String[] args) {
 				int age = 10;									//참 : 거짓

@@ -14,3 +14,4 @@ public class TypeMismath {
 		System.out.println(five);
 	}
 }
+//5

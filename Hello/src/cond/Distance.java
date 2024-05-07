@@ -5,7 +5,7 @@ package cond;
  * 거리가 10km이하면 : "자전거"
  * 거리가 100km이하면 : "자동차"
  * 거리가 100km초과면 : "비행기"
- */
+ *//**/
 public class Distance {
 		public static void main(String[] args) {
 			int distance = 30;

@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /*구구단 출력
  * 사용자로부터 하나의 정수 n을 입력받고
- * 입력받은 정수 n의 구구단을 출력하는 프로그램을 작성하세요. 
+ * 입력받은 정수 n의 구구단을 출력하는 프로그램을 작성하세요
  */
 public class ScannerEx4 {
 		public static void main(String[] args) {

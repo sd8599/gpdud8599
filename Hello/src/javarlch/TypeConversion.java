@@ -22,3 +22,8 @@ public class TypeConversion {
 		System.out.println("e = "+e);
 	}
 }
+//a = 2
+//b = 0.0
+//c = 1
+//d = 0.6666666666666666
+//e = 0.6666666666666666

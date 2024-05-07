@@ -1,7 +1,7 @@
 package casting;
 /*형변환
  * 작은 범위에서 큰 범위에 값을 대입하는 다음 코드를
- * 실행하면 특별한 문제없이 잘 수행된다.
+ * 실행하면 특별한 문제없이 잘 수행된다
  */
 public class Casting1 {
 		public static void main(String[] args) {

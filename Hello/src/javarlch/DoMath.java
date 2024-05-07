@@ -8,3 +8,5 @@ public class DoMath {
 		System.out.println(score);
 	}
 }
+//7.0
+//3.5

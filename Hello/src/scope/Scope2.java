@@ -13,3 +13,8 @@ public class Scope2 {
 				System.out.println("main m = "+m);
 		}
 }
+//for m = 10
+//for i = 0
+//for m = 10
+//for i = 1
+//main m = 10

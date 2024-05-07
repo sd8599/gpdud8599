@@ -15,3 +15,7 @@ public class DivTest {
 		System.out.println("d = "+d);
 	}
 }
+//a = 2.5
+//b = 2
+//c = 2
+//d = 2.0

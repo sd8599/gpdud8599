@@ -12,3 +12,4 @@ public class Receipt {
 		System.out.println("totalPrice  "+totalPrice+"won");
 	}
 }
+//totalPrice  13600won

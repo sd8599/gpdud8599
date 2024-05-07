@@ -12,3 +12,4 @@ public class DoWhile1 {
 				} while (i<3);
 			}
 }
+//현재 숫자는 : 10

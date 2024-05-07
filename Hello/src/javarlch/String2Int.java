@@ -13,3 +13,5 @@ public class String2Int {
 				System.out.println("pi = "+pi);
 	}
 }
+//seven = 7
+//pi = 3.14

@@ -11,3 +11,5 @@ public class Scope3_2 {
 				System.out.println("m = "+m);
 		}
 }
+//temp = 20
+//m = 10

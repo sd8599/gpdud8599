@@ -15,3 +15,4 @@ public class Code2 {
 		System.out.print("Java good!");
 	}
 }
+/**/

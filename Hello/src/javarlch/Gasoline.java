@@ -14,3 +14,4 @@ public class Gasoline {
 		
 	}
 }
+//연비 : 21.05 km/L
