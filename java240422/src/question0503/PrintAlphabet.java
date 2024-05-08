@@ -1,6 +1,5 @@
 package question0503;
 
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class PrintAlphabet {
@@ -9,12 +8,17 @@ public class PrintAlphabet {
 	Scanner sc = new Scanner(System.in);
 	System.out.print("소문자 알파벳 하나를 입력하시오>> ");
 	char c = sc.next().charAt(0);
+	/*String s = sc.next();
+	 * char c = s.charAt(0);
+	 * 이렇게도 가능, 바로 캐릭터로 받는 scanner가 없음
+	 */
 	
 	for (char i = c; i >='a'; i--) {
 		for (char j ='a'; j <= i; j++) {
+			//입력받은 알파벳부터 하나씩 이전 알파벳으로 반복 출력
 			System.out.print(j);
 		}
-		System.out.println();
+			System.out.println();
 		}sc.close();
 	}
 }

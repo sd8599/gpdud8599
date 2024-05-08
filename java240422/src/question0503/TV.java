@@ -1,9 +1,9 @@
 package question0503;
 
-public class TV {
-	String title;
-	int year;
-	int inch;
+	public class TV {
+		String title;
+		int year;
+		int inch;
 	
 	public TV(String a,int b,int c) {
 		title = a;
