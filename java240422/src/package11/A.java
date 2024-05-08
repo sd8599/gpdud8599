@@ -6,7 +6,7 @@ public class A {
 	A a2 = new A(1); 
 	A a3 = new A("문자열"); 
 	
-	//생성자
+	//생성자/
 	public A(boolean b) {
 	}
 	//오버로딩 발생

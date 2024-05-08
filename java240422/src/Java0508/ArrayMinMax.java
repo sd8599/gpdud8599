@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*배열에 입력받은 수 중 최소값+최대값 구하기
  * 양수 10개를 입력 받아 배열에 저장하고, 제일 작은 수와
- * 제일 큰 수를 더한 값을 출력하는 프로그램을 작성하라.
+ * 제일 큰 수를 더한 값을 출력하는 프로그램을 작성하라
  */
 public class ArrayMinMax {
 	public static void main(String[] args) {

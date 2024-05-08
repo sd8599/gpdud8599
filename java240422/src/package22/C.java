@@ -1,5 +1,5 @@
 package package22;
-
+//
 import package21.A;
 
 public class C {

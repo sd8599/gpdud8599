@@ -1,6 +1,6 @@
 package package12;
 
-//다른 패키지에서 접근할 때 import 적용
+//다른 패키지에서 접근할 때 import 적용/
 import package11.A;
 
 public class C {

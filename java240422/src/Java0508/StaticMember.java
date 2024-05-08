@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*static사용(필드, 메소드)
  * 클래스 이름으로 static 멤버 접근
  * 환율을 입력 받아 100만원 몇달러?
- * 환율 ->100달러가 몇원?
+ * 환율 ->100달러가 몇원?/
  */
 //접근 지정자 : default
 class CurrencyConverter{

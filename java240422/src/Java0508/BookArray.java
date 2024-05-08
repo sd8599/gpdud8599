@@ -14,7 +14,7 @@ class Book3{
 public class BookArray {
 		public static void main(String[] args) {
 			Scanner sc = new Scanner(System.in);
-			//book 참조변수가 참조변수 2개를 가리킴
+			//book 참조변수가 참조변수 2개를 가리킴/
 			Book3[] book = new Book3[2];
 			
 			//book.length = 2

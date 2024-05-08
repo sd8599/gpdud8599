@@ -1,7 +1,7 @@
 package Java0508;
 
 class Circle3{
-	//4.멤버 저장됨
+	//4.멤버 저장됨/
 	int radius;
 	public double getArea() {
 		return 3.14*radius*radius;

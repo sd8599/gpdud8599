@@ -2,7 +2,7 @@ package Java0508;
 
 //default접근지정자
 class Calc{
-//	static(클래스)멤버는 객체 생성없이 클래스 이름으로 사용가능
+//	static(클래스)멤버는 객체 생성없이 클래스 이름으로 사용가능/
 //	public static int abs(int a) {
 	//non static(인스턴스)멤버는 객체 생성해야 사용됨
 //		public int abs(int a) {
