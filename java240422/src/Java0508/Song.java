@@ -1,11 +1,12 @@
 package Java0508;
 
 	public class Song{
-		String title;
-		String artist;		
-		int year;
-		String country;		
+		private String title;
+		private String artist;		
+		private int year;
+		private String country;		
 		
+//		마우스오른쪽->source->밑에서세번째(using field)
 	public Song(int year,String country,String artist,String title) {
 		this.title = title;
 		this.artist = artist;
