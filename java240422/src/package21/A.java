@@ -1,7 +1,7 @@
 package package21;
 
 public class A {
-	//필드/
+	//필드
 	public int filed1;
 	int filed2;
 	private int filed3;
