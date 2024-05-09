@@ -11,25 +11,30 @@ public class ScannerSum {
 		int num1 = 0;
 		int num2 = 0;
 		
-		while(true) {
 			System.out.print("숫자 입력 : ");
 			num1 = sc.nextInt();
 			System.out.print("숫자 입력 : ");
 			num2 = sc.nextInt();
-				
-			if (num2>num1) {
+			int sum = 0;
+			
+			if (num2<num1) {
 				int temp = num1;
 				num1 = num2;
 				num2 = temp;
-				for (int i = num1; i < num2; i++) {
-					int sum;
 				}
-			}
-			
-			break;
-		}
-		System.out.println("결과 : ");
-		System.out.println("합계 : ");
+				for (int i = num1; i <= num2; i++) {
+					sum+=i;
+					if (i==num1) {
+						System.out.print("결과 : ");
+					}
+					if (i<=num2&&i>num1) {
+						System.out.print(",");
+					}
+					System.out.print(i);
+				}
+				System.out.println();
+				System.out.println("합계 : "+sum);					
+		
 	}
 	
 	
