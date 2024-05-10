@@ -1,5 +1,5 @@
 package chapter05_0510;
-
+//
 class Shape{
 	public void draw() {
 		System.out.println("Shape");
