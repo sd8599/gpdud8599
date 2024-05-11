@@ -1,5 +1,5 @@
 package example;
-//상품관리 프로그램
+//상품관리 프로그램 만들기
 import java.util.Scanner;
 
 public class Ex1 {
