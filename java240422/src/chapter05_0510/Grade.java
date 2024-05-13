@@ -13,6 +13,9 @@ public class Grade {
 		this.science = science;
 		this.engligh = engligh;
 	}
+	private int average() {
+		return (math+science+engligh)/3;
+	}
 	public static void main(String[] args) {
 		 
 		Scanner scanner = new Scanner(System.in);
@@ -25,8 +28,5 @@ public class Grade {
 		Grade me = new Grade(math,science,engligh); //객체생성
 		System.out.println("평균은 "+ me.average());	
 		scanner.close();
-	}
-	private int average() {
-		return (math+science+engligh)/3;
 	}
 }
