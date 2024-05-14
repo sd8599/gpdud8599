@@ -27,10 +27,8 @@ double mathScore) {
 	Grade grade1= new Grade("강백호",90.0,85.5,70.0);
 	Grade grade2= new Grade("채치수",82.0,92.0,60.5);
 		
-		System.out.println("강백호의 평균점수 
-: "+grade1.calculateAverage());
-		System.out.println("채치수의 평균점수 
-: "+grade2.calculateAverage());
+		System.out.println("강백호의 평균점수 : "+grade1.calculateAverage());
+		System.out.println("채치수의 평균점수 : "+grade2.calculateAverage());
 			}
 		}
 	
