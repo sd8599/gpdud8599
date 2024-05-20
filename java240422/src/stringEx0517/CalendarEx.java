@@ -36,6 +36,7 @@ public class CalendarEx {
 		} else {
 			System.out.print("오후");
 		}
+		//(20)오후8시 30분 0초 0밀리초
 		System.out.println(hour+"시 "+minute+"분 "+second+"초 "+millisecond+"밀리초");
 	}
 	

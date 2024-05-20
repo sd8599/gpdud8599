@@ -25,9 +25,11 @@ public class ArrayParameterEx {
 		String s[] = {"to"," ","be"," ","or"," ","not"," ","to"," ","be"};
 //		String d[] = {" ","be"," ","or"," ","not"," ","to"," ","be"};
 		
-		printStringArray(s);
+		printStringArray(s);//to be or not to be
 //		printStringArray(d);
 		replaceBe(s);
-		printStringArray(s);
+		printStringArray(s);//to eat or not to eat
 	}
 }
+//to be or not to be
+//to eat or not to eat
