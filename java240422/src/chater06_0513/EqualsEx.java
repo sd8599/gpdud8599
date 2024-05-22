@@ -4,6 +4,7 @@ class Point3{
 	private int x,y;
 
 	public Point3(int x, int y) { //alt shift s
+
 		this.x = x;
 		this.y = y;
 	}

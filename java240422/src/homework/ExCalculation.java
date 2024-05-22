@@ -14,12 +14,13 @@ import java.util.Scanner;
 public class ExCalculation {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("2개의 실수 입력>>");
+		System.out.print("2개의 실수 입력>>");
 		double a = sc.nextDouble();
 		double b = sc.nextDouble();
 		double sum = a+b;
 		double mi = a-b;
 		double ab = a*b;
+//		double nanu = ((int)(a/b*100))/100;
 		double nanu = a/b;
 		
 		System.out.println("두수의 덧셈은 "+sum);
