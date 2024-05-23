@@ -25,6 +25,6 @@ public class ComputeBalance {
 			}
 			System.out.println("구매금액 = "+purchaseAmount);
 			System.out.println("청구금액 = "+balance);			
-		}
+		}//
 	}
 }
