@@ -9,8 +9,6 @@ public class ArithmeticExSwitch {
 		int number1 = sc.nextInt();
 		String arith = sc.next();
 		int number2 = sc.nextInt();
-//		eerwrgrg
-//		sfs
-		
+
 	}
 }
