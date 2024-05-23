@@ -26,7 +26,7 @@ public class MethodoverridingEx {
 	//Shape p = new Line(); upcasting
 	//Shape p = new Shape();
 	static void paint(Shape p) {
-//		업캐스팅에 의해서 슈퍼클래스의 draw()메소드로 갔다가 오버라이딩 되어서 Line올 간다.
+//		업캐스팅에 의해서 슈퍼클래스의 draw()메소드로 갔다가 오버라이딩 되어서 Line으로 간다.
 //		동적 바인딩
 		p.draw();
 	}
