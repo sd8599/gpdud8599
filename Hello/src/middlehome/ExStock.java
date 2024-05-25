@@ -23,6 +23,6 @@ public class ExStock {
 			} else if(2000<=stock&&stock<=2299){
 				System.out.println("횡보장");
 			}else{System.out.println("하락장");}
-		}
+		}sc.close();
 	}
 }
