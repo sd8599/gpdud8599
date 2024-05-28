@@ -9,17 +9,23 @@ public class RandomArray {
 		System.out.print("정수 몇개?");
 		int num = sc.nextInt();
 		
-		for (int i = 0; i < num; i++) {
-			int number[] = new int[num];
-			number[i] = (int)(Math.random()*100)+1;
+		int number[] = new int[num];
 
-			System.out.print(number[i]+" ");
-			if (i==0) {				
-			}
-			else if (i%10==0) {
-				System.out.println();
-			}
+		for (int i = 0; i < number.length; i++) {
+			number[i] = (int)(Math.random()*100)+1;
 			
+				if (i==0) {//처음 출력때는 엔터X 출력
+					System.out.print(number[i]+" ");
+				}else {
+					if (i%10==0) { //10번째 마다 엔터
+						System.out.println();
+					}
+					System.out.print(number[i]+" ");
+					}
+				}
+		sc.close();
+			}
 		}
-	}
-}
+//if ((i+1)%10==0) { //10개의 숫자마다 새 줄로 출력
+//	System.out.println();
+//}
