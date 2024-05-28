@@ -19,6 +19,7 @@ public class ArrayListEx1_2 {
 		}System.out.println();
 		
 		String longestName = list.get(0);
+		
 		for (String name : list) {
 			if (name.length()>longestName.length()) {
 				longestName = name;

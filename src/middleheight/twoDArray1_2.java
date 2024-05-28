@@ -11,6 +11,7 @@ public class twoDArray1_2 {
 		
 		for (int i = 0; i < array.length; i++) {
 			for (int j = 0; j < array[i].length; j++) {
+				
 				int randomNumber;
 			do {
 				randomNumber = (int)(Math.random()*45)+1;
