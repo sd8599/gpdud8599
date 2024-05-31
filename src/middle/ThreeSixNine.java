@@ -28,10 +28,10 @@ public class ThreeSixNine {
 	}
 }
 //		잘기억하기
-//		if (a%3==0) {
+//		if (num/10%3==0) {
 //			count++;
 //		}
-//		if(b%3==0&&b!=0) {
+//		if(num%10%3==0&&b!=0) {
 //			count++;
 //		}
 //		
